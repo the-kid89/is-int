@@ -1,0 +1,27 @@
+{
+  "name": "is-int",
+  "version": "1.0.0",
+  "description": "Check if a value is an number",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivalnick/is-int.git"
+  },
+  "keywords": [
+    "int",
+    "is",
+    "evaluate"
+  ],
+  "author": "Nicky Laczko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rivalnick/is-int/issues"
+  },
+  "dependencies": {
+    "kheck": "^1.0.0"
+  },
+  "homepage": "https://github.com/rivalnick/is-int#readme"
+}
