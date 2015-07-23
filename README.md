@@ -1,4 +1,4 @@
-is-int [![Build Status](https://travis-ci.org/RivalNick/is-int.svg?branch=master)](https://travis-ci.org/RivalNick/int)
+is-int [![Build Status](https://travis-ci.org/RivalNick/is-int.svg?branch=master)](https://travis-ci.org/RivalNick/is-int)
 ============================================================
 
 > Check if a variable is an integer.
